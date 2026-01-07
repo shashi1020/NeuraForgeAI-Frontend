@@ -1,9 +1,7 @@
 <img width="1584" height="672" alt="neuraforgeai banner" src="https://github.com/user-attachments/assets/13962f2d-f152-4674-a8c2-022cda4e4c53" />
+
 # 🧠 NeuraForgeAi
-
 ### Unlock the Knowledge within your Documents
-
-![NeuraForgeAi Banner](path/to/your/banner_image.png)
 
 ## 📖 About The Project
 
@@ -44,12 +42,6 @@ NeuraForgeAi is built with modern Android standards and a robust backend integra
 4.  **Storage:** Embeddings are stored in a **pgvector** enabled database.
 5.  **Retrieval:** When a user asks a question, the query is converted to a vector, compared against the database for cosine similarity, and the most relevant chunks are fed to the **Gemini API** to generate a context-aware answer.
 
-## 📸 Screenshots
-
-| Dashboard | Document Upload | AI Chat Interface |
-|:---:|:---:|:---:|
-| *(Place Screenshot Here)* | *(Place Screenshot Here)* | *(Place Screenshot Here)* |
-
 ## 🏁 Getting Started
 
 ### Prerequisites
@@ -82,7 +74,6 @@ Contributions are what make the open-source community such an amazing place to l
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
-
 ---
 
 
